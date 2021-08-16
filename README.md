@@ -6,7 +6,6 @@
 - I haven't mastered these fields yet but I'm constantly learning and working to improve my skills. :seedling:
 - I’m looking to collaborate on any exciting freelance project. 👯
 - Currently I'm learning Full Stack development and doing some projects on it; you can find them here in my profile. :arrow_down:
-- You can reach me through my Email :e-mail:	: projektArkane@gmail.com 
 
 ### Programming Languages
 <p float="left">
