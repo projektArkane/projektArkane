@@ -1,3 +1,4 @@
+![](Quote.jpg)
 - 👋 **Hi there, I’m Rahul**.
 - 👀 **I’m interested in Web Development and Data Science.**
 - 🌱 **I’m currently learning Full Stack Development and doing some side projects.**
