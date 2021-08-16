@@ -1,9 +1,10 @@
 ![](Quote.jpg)
-- 👋 **Hi there, I’m Rahul**.
-- 👀 **I’m interested in Web Development and Data Science.**
-- 🌱 **I’m currently learning Full Stack Development and doing some side projects.**
-- 💞️ **I’m looking forward for some internships.**
-- 📫 **You can reach me through my email, projektArkane@gmail.com**
+## Hello, I'm Rahul 👋:
+- I am a final year CS student with a great passion for programming :heart:.
+- Just like anyone else, I have big dreams, and I see coding as a way to make them come true :sparkles:.
+- I am interested in Web Development  and Machine Learning :computer:.
+- I won't say I have mastered these fields but I'm constantly learning and improving my skills :dart:. I always feel enthusiastic to learn new technologies and to experiment with them.:seedling:
+- Currently I'm learning Full Stack development and doing some projects on it; you can find them here in my profile. :arrow_down:
 
 <!---
 projektArkane/projektArkane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
